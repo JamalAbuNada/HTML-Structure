@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+}
+
+nav {
+    background-color: #9f9f9f;
+    height: 20px;
+    padding: 10px;
+}
+
+span {
+    float: left;
+}
+
+ul>li {
+    float: right;
+    list-style: none;
+    margin-left: 50px;
+}
+
+ul>li>a {
+    text-decoration: none;
+    margin-right: 50px;
+}
